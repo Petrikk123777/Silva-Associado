@@ -1,9 +1,9 @@
-# 🧠 Petrik Walex - Psicólogo
+# ⚖️ Silva & Associados - Advocacia
 
-**Categoria:** Saúde
-**Tipo de projeto:** `landing_form`
+**Categoria:** Serviços
+**Tipo de projeto:** `landing_institucional`
 
-Site acolhedor com abordagens, agenda e contato.
+Escritório institucional com áreas de atuação.
 
 ## 🎯 Conceitos abordados
 - Estrutura HTML semântica (`header`, `section`, `article`, `footer`)
@@ -16,7 +16,7 @@ Site acolhedor com abordagens, agenda e contato.
 
 ## 📂 Estrutura de arquivos
 ```
-04-psicologa/
+13-advocacia/
 ├── index.html      # estrutura da página
 ├── styles.css      # estilos e responsividade
 ├── script.js       # interatividade
